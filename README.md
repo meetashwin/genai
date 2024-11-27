@@ -1,4 +1,4 @@
-# Generative AI - Experiemental
+# Generative AI - Experiments
 
 This is the home to all experimental code I write around Generative AI.
 
