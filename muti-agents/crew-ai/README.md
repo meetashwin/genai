@@ -1,6 +1,6 @@
 # CrewAI - Multi Agent Samples
 
-Here are some of the multi-agent samples I've created using Crew AI as the agentic framework and Anthropic (Haiku) as the LLM.
+Here are some of the multi-agent samples I've created using CrewAI as the agentic framework and Anthropic (Haiku) as the LLM.
 
 * **[qa-ba-agents.ipynb](qa-ba-agents.ipynb)**
   * Given a functional business requirement, create agile user stories and system tests
